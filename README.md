@@ -31,3 +31,10 @@ npm run dev
 ```sh
 npm run build
 ```
+## Author
+
+Manuela Giraldo Arango
+- [@Arangog20](https://github.com/Arangog20)
+
+## Repository
+-[MOVIE-](https://github.com/Arangog20/MOVIE-)
